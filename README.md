@@ -2,8 +2,10 @@
 
 **SARCLIP: A Multimodal Foundation Model for SAR Imagery via Contrastive Language-Image Pre-Training**
 
-> 🚧 Note: This repository is currently under construction.  
-> ⚠️ The model and dataset will be made publicly available upon paper acceptance.
+## 🔥 News
+- **Aug 2025**: The revised manuscript of SARCLIP has been submitted after major revision.  
+- **Planned**: Code and pre-trained models will be released once the review process moves forward smoothly.  
+- **Upon Acceptance**: The SARCLIP dataset will be released to ensure compliance with publication policy.  
 
 ## 🛰️ Overview
 
