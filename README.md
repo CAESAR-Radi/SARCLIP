@@ -27,8 +27,6 @@ This project also introduces SARTEX, an annotation framework that automatically 
 
 ## 📦 Coming Soon
 
-Upon acceptance of the paper, we will release the following:
-
 - 📁 Pre-trained SARCLIP model weights (including ViT-L-14 and ResNet variants)  
 - 📊 A cleaned, standardized, and diversified SAR image-text dataset  
 - 🔧 Running scripts, with configurations for model using and tasks  
