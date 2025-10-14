@@ -1,0 +1,15 @@
+ftfy
+timm
+regex
+pandas
+numpy
+matplotlib
+torch
+torchvision
+gdal
+transformers
+safetensors
+tqdm
+huggingface-hub
+fvcore
+fsspec
