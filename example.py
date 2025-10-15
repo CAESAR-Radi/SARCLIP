@@ -13,7 +13,7 @@ tokenizer = sar_clip.get_tokenizer(model_name, cache_dir=cache_dir)
 
 
 # Load image and tokenize text
-image_path = r".\winter_138_p296_16_16.tif"
+image_path = r".\example.tif"
 image = sar_clip.readtif(image_path)
 sar_clip.display(image)
 image = torch.from_numpy(image)
@@ -49,5 +49,6 @@ formatted_output = [
 print("Predictions:")
 for line in formatted_output:
     print(line)
+
 
 
